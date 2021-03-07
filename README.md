@@ -1,6 +1,6 @@
 # Object Detection, Recognition and Segmentation
  
-This is the repository of the Group 9 composed by Mar Ferrer (), Alex Tempelaar (), and Víctor Ubieto (victor.ubieto@e-campus.uab.cat).
+This is the repository of the Group 9 composed by Mar Ferrer (mar.ferrerf@e-campus.uab.cat), Alex Tempelaar (alexander.tempelaar@e-campus.uab.cat), and Víctor Ubieto (victor.ubieto@e-campus.uab.cat).
 
 In this project we provide a nice implementation of a Image Classification network using the framework from Pytorch.
 
