@@ -8,4 +8,10 @@ You can find the final documentation and report of the whole project [here](http
 
 # Code Explanation
 
-explicar els files i el codi i instruccions de com utilitzar-lo
+This code is a Pytorch implementation of an image classiffier based on CNNs. The used model is extracted from a previous module (M3) in which we worked with Keras. So the aim of this project is to spot the differences between the two frameworks. 
+In order to run this code, you have to do the following:
+
+1. Open the main file, lab1.py, and insert your path for the training set: DATASET_DIR_TRAIN: --Line 18
+2. Insert your path for the training set: DATASET_DIR_TEST: --Line 19
+3. Run: >> python lab1.py
+
