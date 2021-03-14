@@ -19,7 +19,6 @@ from detectron2.data import MetadataCatalog, DatasetCatalog
 from detectron2.evaluation import COCOEvaluator, inference_on_dataset
 from detectron2.data import build_detection_test_loader
 
-
 DATASET_DIR_TRAIN = '/home/group09/code/Dataset_withVal/train'
 DATASET_DIR_TEST = '/home/group09/code/Dataset_withVal/test'
 im = plt.imread("input.jpg")

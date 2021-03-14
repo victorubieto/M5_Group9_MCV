@@ -24,9 +24,6 @@ from detectron2.evaluation import COCOEvaluator, inference_on_dataset
 from detectron2.data import build_detection_test_loader
 
 
-DATASET_DIR_TRAIN = '/home/group09/code/Dataset_withVal/train'
-DATASET_DIR_TEST = '/home/group09/code/week1/Dataset_withVal/test/'
-
 DATASET_ROOT_DIR = '/home/mcv/datasets/KITTI'
 DATASET_IMG_DIR = '/home/mcv/datasets/KITTI/data_object_image_2/training/image_2'
 DATASET_DET_DIR = '/home/mcv/datasets/KITTI/training/label_2'
