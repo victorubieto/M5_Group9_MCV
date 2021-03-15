@@ -80,7 +80,7 @@ trainer.train()
 
 #------------------------------------INFERENCE--------------------------------
 print('INFERENCE')
-evaluator = COCOEvaluator("KITTI_val", cfg, False, output_dir="./output_alex/")
+evaluator = COCOEvaluator("KITTI_val", cfg, False, output_dir="./output/")
 print('ha passat base 1')
 val_loader = build_detection_test_loader(cfg, "KITTI_val")
 print('ha passat base 2')
