@@ -4,7 +4,7 @@ This is the repository of the Group 9 composed by Mar Ferrer (mar.ferrerf@e-camp
 
 In this project we provide a nice implementation of a Image Classification network using the framework from Pytorch.
 
-You can find the final documentation and report of the project [here](https://www.overleaf.com/read/xfbwshstznzh).
+You can find the documentation and report of the project [here](https://www.overleaf.com/read/xfbwshstznzh).
 
 Moreover, you can check the weekly slides in the folowing links:
 * [Week 1](https://docs.google.com/presentation/d/1deTzukazFwTeO4joZ5Fpa5-4wPc_g2MzVJk3duT0UfQ/edit?usp=sharing)
