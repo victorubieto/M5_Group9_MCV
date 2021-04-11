@@ -56,3 +56,28 @@ For task 4 and 5:
 2. Insert your path to the folder where are stored all the annotations (ground truth) divided into three folders, one for training, one for validation, and one for test: DATA_PATH_GT: --Line 54
 3. Choose the desired model and dataset between "faster" and "retina", and between "MOTS" and "KITTI": --Line 55, 56
 4. Run: >> python lab3_task4.py 
+
+## Week 4
+
+Link to the slides: https://docs.google.com/presentation/d/1S3ea5e--dl1P9OR8gdf2czNSOtJtaC24RTz5bqNrZOk/edit?usp=sharing
+
+For task A:
+1. Open the file lab4_task1.py, and insert your path for the test set: Groundtruth dataset: --Line 28
+2. Put dataset for the image path: --Line 29
+3. Chose a model name (uncomment one): --Lines 32-39
+5. Run: >> python lab4_task1.py
+
+For task B:
+1. Open the file lab4_task1.py, and insert your path for the test set: Groundtruth dataset: --Line 42
+2. Put dataset for the image path: --Line 43
+3. Chose a model name (uncomment one): --Lines 31
+4. Output folder name: --Line 33
+5. Run: >> python lab4_task2.py
+
+For task C:
+1. Open the file lab4_task1.py, and insert your path for the test set: Groundtruth dataset: --Line 28
+2. Put dataset for the image path: --Line 29
+3. Set which hyperparameters you want to use: --Lines 32-34
+4. Output folder name (experiment name): --Line 35
+5. Model name: --Line 38
+6. Run: >> python lab4_task3.py
