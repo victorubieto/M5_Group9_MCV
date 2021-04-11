@@ -10,7 +10,7 @@ Moreover, you can check the weekly slides in the folowing links:
 * [Week 1](https://docs.google.com/presentation/d/1deTzukazFwTeO4joZ5Fpa5-4wPc_g2MzVJk3duT0UfQ/edit?usp=sharing)
 * [Week 2](https://docs.google.com/presentation/d/1SV-Jc5rKc0fMkfuLtEqk-vGWJdk6FSVr9HdRkDZe5k4/edit?usp=sharing)
 * [Week 3](https://docs.google.com/presentation/d/17VsHTOEuCXAYGFqN3LIry-6TbTCovvluaCs0u-U4e7U/edit?usp=sharing)
-* Week 4
+* [Week 4](https://docs.google.com/presentation/d/1S3ea5e--dl1P9OR8gdf2czNSOtJtaC24RTz5bqNrZOk/edit?usp=sharing)
 * Week 5
 
 # Code Explanation
@@ -58,8 +58,6 @@ For task 4 and 5:
 4. Run: >> python lab3_task4.py 
 
 ## Week 4
-
-Link to the slides: https://docs.google.com/presentation/d/1S3ea5e--dl1P9OR8gdf2czNSOtJtaC24RTz5bqNrZOk/edit?usp=sharing
 
 For task A:
 1. Open the file lab4_task1.py, and insert your path for the test set: Groundtruth dataset: --Line 28
