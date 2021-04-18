@@ -4,14 +4,14 @@ This is the repository of the Group 9 composed by Mar Ferrer (mar.ferrerf@e-camp
 
 In this project we provide a nice implementation of a Image Classification network using the framework from Pytorch.
 
-You can find the documentation and report of the project [here](https://www.overleaf.com/read/xfbwshstznzh).
+You can find the documentation and report of the project [here](https://es.overleaf.com/read/wccvcqzcxrgz).
 
 Moreover, you can check the weekly slides in the folowing links:
 * [Week 1](https://docs.google.com/presentation/d/1deTzukazFwTeO4joZ5Fpa5-4wPc_g2MzVJk3duT0UfQ/edit?usp=sharing)
 * [Week 2](https://docs.google.com/presentation/d/1SV-Jc5rKc0fMkfuLtEqk-vGWJdk6FSVr9HdRkDZe5k4/edit?usp=sharing)
 * [Week 3](https://docs.google.com/presentation/d/17VsHTOEuCXAYGFqN3LIry-6TbTCovvluaCs0u-U4e7U/edit?usp=sharing)
 * [Week 4](https://docs.google.com/presentation/d/1S3ea5e--dl1P9OR8gdf2czNSOtJtaC24RTz5bqNrZOk/edit?usp=sharing)
-* Week 5
+* [Week 5](https://docs.google.com/presentation/d/11A_ays3smAuJxfEztEdj8sy99pKPEHAlIU4_H1RK3tE/edit?usp=sharing)
 
 # Code Explanation
 
@@ -79,3 +79,25 @@ For task C:
 4. Output folder name (experiment name): --Line 35
 5. Model name: --Line 38
 6. Run: >> python lab4_task3.py
+
+## Week 5
+
+For task A:
+1. Open the file lab5_task1.py, and insert your path for the test set:Data image path: --Line 28
+2. Chose a model name (faster/mask): --Lines 31
+3. Run: >> python lab5_task1.py
+
+For task B:
+1. Open the file lab5_task2.py, and insert your path for the test set:Data image path: --Line 29
+2. Chose a model name (faster/mask): --Lines 32
+3. Run: >> python lab5_task2.py
+
+For task C:
+1. Open the file lab5_task3.py, and insert your path for the test set:Data image path: --Line 28
+2. Chose a model name (faster/mask): --Lines 31
+3. Run: >> python lab5_task3.py
+
+For task D:
+1. Open the file lab5_task4.py, and insert your path for the test set:Data image path: --Line 27
+2. Chose a model name (faster/mask): --Lines 30
+3. Run: >> python lab5_task4.py
